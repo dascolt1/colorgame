@@ -1,2 +1,4 @@
 # colorgame
-basic color game to learn russian
+Study tool that helped me learn russian colors
+
+

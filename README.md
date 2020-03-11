@@ -1,4 +1,4 @@
-# colorgame
+# Russia Study Color Game
 
 Study tool that helped me learn colors in the Russian Language.
 
